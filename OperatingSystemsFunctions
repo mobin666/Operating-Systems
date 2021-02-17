@@ -1,3 +1,7 @@
 One operating system function is to provide a user interface. 
 That controls how data and instructions are entered and displayed on the screen.
 This may be through the GUI or the command-line.
+
+Another function is starting your computer or mobile device.
+This runs a teston all the devices and begins the boot up proccess from the kernel.
+It then loads system configuration information and the GUI
