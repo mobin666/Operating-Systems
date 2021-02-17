@@ -5,3 +5,8 @@ This may be through the GUI or the command-line.
 Another function is starting your computer or mobile device.
 This runs a teston all the devices and begins the boot up proccess from the kernel.
 It then loads system configuration information and the GUI
+
+Operating Systems also function to shut down computers. 
+Pressing the power button will begin the shutdown process.
+The OS will ask to save any unsaved files and power down the computer.
+If you hold down the power button it goes straight to power down.
